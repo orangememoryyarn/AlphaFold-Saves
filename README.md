@@ -20,8 +20,8 @@ DNAgen is a small web app I made to generate DNA sequences to test the BaeI enzy
 
 ## Next
 
-  1. Label each of the trials with the results to permit easier analysis
-  2. See if I need to use the reverse complement as a 5' --> 3' input
-  3. Test out alternative methods of performing these predictions
-  4. Use ChimeraX to notate the amino acids that interact when binding takes place
-  5. Rerun tests with single 5' -> 3' DNA molecule
+  - [ ] Label each of the trials with the results to permit easier analysis
+  - [ ] See if I need to use the reverse complement as a 5' --> 3' input
+  - [ ] Test out alternative methods of performing these predictions
+  - [ ] Use ChimeraX to notate the amino acids that interact when binding takes place
+  - [ ] Rerun tests with single 5' -> 3' DNA molecule
