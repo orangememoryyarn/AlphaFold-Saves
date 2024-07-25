@@ -1,0 +1,21 @@
+[{
+ "name": "DNA Sequence III Both Strands",
+ "modelSeeds": [
+  "392872133"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGATCTTGGTTGGGCGAGGCGACCTTGGAACCGAGGTATCGGACGTCGAATTTGGTCCGGACAGAGTTGGAATATACCAAATGGATAACTGGCACGGTGTGCGAACA",
+    "count": 1
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "TGTTCGCACACCGTGCCAGTTATCCATTTGGTATATTCCAACTCTGTCCGGACCAAATTCGACGTCCGATACCTCGGTTCCAAGGTCGCCTCGCCCAACCAAGATCA",
+    "count": 1
+   }
+  }
+ ]
+}
+]

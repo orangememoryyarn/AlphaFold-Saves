@@ -1,0 +1,15 @@
+[{
+ "name": "DNA Sequence III One Molecule",
+ "modelSeeds": [
+  "998874983"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGATCTTGGTTGGGCGAGGCGACCTTGGAACCGAGGTATCGGACGTCGAATTTGGTCCGGACAGAGTTGGAATATACCAAATGGATAACTGGCACGGTGTGCGAACA",
+    "count": 1
+   }
+  }
+ ]
+}
+]

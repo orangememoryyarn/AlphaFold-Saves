@@ -1,0 +1,15 @@
+[{
+ "name": "DNA Sequence II One Molecule",
+ "modelSeeds": [
+  "776744383"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGATCTTGGTTGGGCGAGGCGACCTTGGAACCGAGGTATCGGACGTCGAATTTGGTCCGGACAGAGTTGGAATATACCAAATGGATAACTGGCACGGTGTGCGAACA",
+    "count": 1
+   }
+  }
+ ]
+}
+]

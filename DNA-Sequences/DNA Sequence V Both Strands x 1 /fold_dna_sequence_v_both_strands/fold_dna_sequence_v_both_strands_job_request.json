@@ -1,0 +1,21 @@
+[{
+ "name": "DNA Sequence V Both Strands",
+ "modelSeeds": [
+  "642582425"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGTAAGGATGACATAATCCCGACGAAAGGACTGTAGTATCAGCGACTTTTAGGGCCAAAGTCAATAGGGCTAATGAGGCTCCGACTTAGTAGACTTTCGGCACCAGT",
+    "count": 1
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "ACTGGTGCCGAAAGTCTACTAAGTCGGAGCCTCATTAGCCCTATTGACTTTGGCCCTAAAAGTCGCTGATACTACAGTCCTTTCGTCGGGATTATGTCATCCTTACA",
+    "count": 1
+   }
+  }
+ ]
+}
+]

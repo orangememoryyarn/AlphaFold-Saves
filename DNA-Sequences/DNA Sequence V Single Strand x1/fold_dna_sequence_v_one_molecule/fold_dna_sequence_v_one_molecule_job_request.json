@@ -1,0 +1,15 @@
+[{
+ "name": "DNA Sequence V One Molecule",
+ "modelSeeds": [
+  "899715069"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGTAAGGATGACATAATCCCGACGAAAGGACTGTAGTATCAGCGACTTTTAGGGCCAAAGTCAATAGGGCTAATGAGGCTCCGACTTAGTAGACTTTCGGCACCAGT",
+    "count": 1
+   }
+  }
+ ]
+}
+]

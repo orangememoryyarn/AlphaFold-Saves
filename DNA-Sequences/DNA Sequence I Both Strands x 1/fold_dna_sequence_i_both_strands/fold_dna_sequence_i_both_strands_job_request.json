@@ -1,0 +1,21 @@
+[{
+ "name": "DNA Sequence I Both Strands",
+ "modelSeeds": [
+  "2022084216"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AACCTGGCTCCAGTCATCTTCCAGTCGACACGCCGGTATCTTGATTGACTATCACCGTTAGCCTTTATAATCCATCTTCACACCTGTCCATGCATATCTCACAAAAC",
+    "count": 1
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "GTTTTGTGAGATATGCATGGACAGGTGTGAAGATGGATTATAAAGGCTAACGGTGATAGTCAATCAAGATACCGGCGTGTCGACTGGAAGATGACTGGAGCCAGGTT",
+    "count": 1
+   }
+  }
+ ]
+}
+]

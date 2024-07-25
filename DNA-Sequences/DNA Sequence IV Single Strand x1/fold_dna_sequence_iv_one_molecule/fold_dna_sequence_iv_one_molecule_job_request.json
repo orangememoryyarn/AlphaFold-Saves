@@ -1,0 +1,15 @@
+[{
+ "name": "DNA Sequence IV One Molecule",
+ "modelSeeds": [
+  "1177024001"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGTGCGAGGTTATATTGTTGTTCAGTGTTACAATGGTACCCCAGTCACCATGTTGGGCTGCTCTGTTCTTTATATGTGTTTGTAAGACAGTAGTTAGCCATGGGGAT",
+    "count": 1
+   }
+  }
+ ]
+}
+]

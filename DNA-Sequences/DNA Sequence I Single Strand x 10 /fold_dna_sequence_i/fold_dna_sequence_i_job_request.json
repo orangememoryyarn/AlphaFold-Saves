@@ -1,0 +1,15 @@
+[{
+ "name": "DNA Sequence I",
+ "modelSeeds": [
+  "939817369"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "AACCTGGCTCCAGTCATCTTCCAGTCGACACGCCGGTATCTTGATTGACTATCACCGTTAGCCTTTATAATCCATCTTCACACCTGTCCATGCATATCTCACAAAAC",
+    "count": 10
+   }
+  }
+ ]
+}
+]

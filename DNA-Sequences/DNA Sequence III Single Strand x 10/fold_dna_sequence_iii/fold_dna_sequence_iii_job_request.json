@@ -1,0 +1,15 @@
+[{
+ "name": "DNA Sequence III",
+ "modelSeeds": [
+  "939817369"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "CTTCGGCAAGTAGACGGAAGGTCTCGCGCACTGCAGTATCCTACATATACGGCCAAGGTCCCAGTGGACTGTAAAACACGGGTTACGCGTGGACTTGCGCTGGACCG",
+    "count": 10
+   }
+  }
+ ]
+}
+]
