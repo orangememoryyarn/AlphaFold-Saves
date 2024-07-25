@@ -1,0 +1,21 @@
+[{
+ "name": "DNA Sequence IV Both Strands x10",
+ "modelSeeds": [
+  "756539305"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGTGCGAGGTTATATTGTTGTTCAGTGTTACAATGGTACCCCAGTCACCATGTTGGGCTGCTCTGTTCTTTATATGTGTTTGTAAGACAGTAGTTAGCCATGGGGAT",
+    "count": 10
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "ATCCCCATGGCTAACTACTGTCTTACAAACACATATAAAGAACAGAGCAGCCCAACATGGTGACTGGGGTACCATTGTAACACTGAACAACAATATAACCTCGCACA",
+    "count": 10
+   }
+  }
+ ]
+}
+]
