@@ -1,0 +1,21 @@
+[{
+ "name": "DNA Sequence II Both Strands x10",
+ "modelSeeds": [
+  "784836591"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TGATCTTGGTTGGGCGAGGCGACCTTGGAACCGAGGTATCGGACGTCGAATTTGGTCCGGACAGAGTTGGAATATACCAAATGGATAACTGGCACGGTGTGCGAACA",
+    "count": 10
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "TGTTCGCACACCGTGCCAGTTATCCATTTGGTATATTCCAACTCTGTCCGGACCAAATTCGACGTCCGATACCTCGGTTCCAAGGTCGCCTCGCCCAACCAAGATCA",
+    "count": 10
+   }
+  }
+ ]
+}
+]
